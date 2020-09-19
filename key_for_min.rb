@@ -13,9 +13,11 @@ def key_for_min_value(name_hash)
   lowest_key
 end
 
+def key_for_min_value(name_hash)
+  lowest_value  = []
+  name_hash.each do |num|
+    if
 
-  #name_hash.collect do |name, num|
-    #if num < num
-      #name
-  #  end
-#  end
+    end
+  end
+end
